@@ -32,14 +32,14 @@ According to the result from example:
 
 1. 取出班次一的每一個時間，印出來就好
 
-1. Fetch the schedule of "班次1" and print out
+   - Fetch the schedule of "班次1" and print out
 
 2. 將班次一的每一個時間用一個變數保存
 
-2. Store the data of "班次1" into a variable
+   - Store the data of "班次1" into a variable
 
 3. 將所有班次和其每一個時間用一個變數保存
 
-3. Store all of "班次" data  into a variable
+   - Store all of "班次" data  into a variable
 
 (Hint： 2&3 要想一下用什麼的資料型態做整理比較適合)
