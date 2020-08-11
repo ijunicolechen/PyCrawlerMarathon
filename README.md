@@ -43,3 +43,33 @@ According to the result from example:
    - Store all of "班次" data  into a variable
 
 (Hint： 2&3 要想一下用什麼的資料型態做整理比較適合)
+
+
+## Day 03
+
+比較一下範例檔案中的「File I/O」與「xmltodict」讀出來的內容有什麼差異
+
+Compare the difference between File I/O and xmltodict
+
+
+根據範例檔案的結果：
+According from the file in Data:
+
+1. 請問高雄市有多少地區有溫度資料？
+   - How many district are there in Kaohsiung that has temperature data?
+2. 請取出每一個地區所記錄的第一個時間點跟溫度
+   - Gather the time and temperature from each district in Kaohsiung
+3. 請取出第一個地區所記錄的每一個時間點跟溫度
+   - Gather all of the time and temperatur from the first district in Kaohsiung
+
+
+## Day 04
+比較一下範例檔案中的「r.text」與「json.loads(r.text)」讀出來的內容有什麼差異
+
+Compare the difference between r.text and json.loads(r.text)
+
+
+自行尋找一個合適的 API 接口做練習，並且查看其回傳內容
+
+Find a API and check the response content
+
